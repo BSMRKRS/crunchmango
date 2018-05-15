@@ -11,3 +11,10 @@ mR = 2
 #setting up the motor speeds
 spl = 2000
 spr = 100
+st = 0
+
+#setting up the magnetometer pins
+pwr = 1
+data = 2
+clock = 3
+boardposit = 4
